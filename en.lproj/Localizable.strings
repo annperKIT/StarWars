@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  StarWars
+
+  Created by Annie Persson on 02/10/2019.
+  Copyright © 2019 Annie Persson. All rights reserved.
+*/
+"favorites_show_all" = "Show all";
+"favorites_filter" = "Filter favorites";
+"search_show" = "Search";
+"search_hide" = "Remove search";
+"detail_title_name" = "Name";
+"detail_title_gender" = "Gender";
+"detail_title_species" = "Species";
+"detail_title_designation" = "Designation";
+"detail_title_lang" = "Language";
+"detail_title_films" = "Appears in";
+"search_character_placeholder" = "First or lastname";
